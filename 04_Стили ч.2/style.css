@@ -226,3 +226,7 @@ padding: 5px 0;
 .footer__title div:last-child {
    margin-right: 0px;
 }
+
+.number {
+   display: block;
+}
