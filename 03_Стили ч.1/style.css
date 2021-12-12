@@ -1,0 +1,163 @@
+body {
+   font-size: 24px;
+   margin: 0px 0px 0px 0px;
+   width: 750px;
+   margin: 0 auto;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+ul, li {
+   list-style: none;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+
+
+h1 {
+   font-size: 30px;
+   font-weight: 500;
+}
+
+
+.header__title {
+   display: flex;
+   padding-left: 20px;
+}
+
+div {
+   margin: 0px 0px 0px 0px;
+}
+
+.header {
+   background-image: url(./Прямоугольник\ 1@1X.png);
+   padding: 20px 0px 0px 0px;
+   
+   
+}
+
+
+.header__text {
+   margin-top: 16px;
+   display: inline-block;
+   color:  white;
+   width: 134px;
+   height: 131px;
+   font-size: 1em;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: 100;
+   vertical-align: baseline;
+   padding-left: 65px;
+   text-align: left;
+   line-height: 35px;
+}
+
+.elipse {
+   display: inline-block;
+}
+
+.menu {
+   margin-top: 20px;
+   margin-left: 250px;
+   padding-right: 20px;
+   
+}
+
+.palki {
+   display: block;
+   padding-bottom: 10px;
+}
+
+.content {
+   background-image: url(./0325115cfca2f08bd19529e1d4a4396a@1X.png) ;
+   background-repeat: no-repeat;
+   position: relative;
+   
+}
+
+.polosa {
+   width: 738px;
+   height: 440px;
+   padding-bottom: 20px;
+   padding-left: 12px;
+}
+.content__button {
+   position: absolute;
+   bottom: 30px;
+   right: 170px;
+}
+
+.btn {
+   display: inline-block;
+    background-color: #CB9223;
+    width: 342px;
+    padding: 29px;
+    font-size: 24px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #fff;
+    opacity: 0.9;
+    text-transform: uppercase;
+}
+
+.info {
+   padding: 73px 0px 0px 44px;
+}
+.info__content {
+   display: flex;
+}
+
+.content__text {
+   width: 245px;
+   padding-left: 70px;
+}
+
+.people {
+   border-radius: 50%;
+
+}
+
+.text {
+   padding-top: 60px;
+}
+
+.content__button2 {
+   margin: 40px 0px 70px 125px;
+}
+
+.footer {
+   background-image: url(./Прямоугольник\ 5@1X.png);
+   display: flex;
+   padding-bottom: 20px;
+   margin-bottom: 30px;
+}
+
+
+
+.adrs {
+   color: #fff;
+   padding-left: 300px;
+}
+
+.elipse {
+   padding: 30px 0px 0px 30px
+}
+
+.number {
+   padding-right: 20px;
+}
+
+
+
+.link {
+   text-decoration: none;
+   color: #fff;
+}
+
+.flexcont {
+   padding-left: 160px;
+   padding-top: 70px;
+   display: flex;
+}
