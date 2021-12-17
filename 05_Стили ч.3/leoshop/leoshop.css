@@ -199,7 +199,7 @@ form {
 }
 
 .slider {
-   background: url(./Layer\ 2@2X.png);
+   background: url(./img/Layer\ 2@2X.png);
    border-left: 10px solid #380a18;
    min-height: 480px;
    background-position: 55% 25%;
@@ -368,7 +368,7 @@ form {
 }
 
 .photo {
-   background: url(./Layer\ 35@1X.png) no-repeat;
+   background: url(./img/Layer\ 35@1X.png) no-repeat;
    margin: 10px;
    background-position: 35% 1%;
    display: flex;

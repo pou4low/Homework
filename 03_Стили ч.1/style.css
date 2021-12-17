@@ -31,7 +31,7 @@ div {
 }
 
 .header {
-   background-image: url(./Прямоугольник\ 1@1X.png);
+   background-image: url(./img/Прямоугольник\ 1@1X.png);
    padding: 20px 0px 0px 0px;
    
    
@@ -70,7 +70,7 @@ div {
 }
 
 .content {
-   background-image: url(./0325115cfca2f08bd19529e1d4a4396a@1X.png) ;
+   background-image: url(./img/0325115cfca2f08bd19529e1d4a4396a@1X.png) ;
    background-repeat: no-repeat;
    position: relative;
    
@@ -128,7 +128,7 @@ div {
 }
 
 .footer {
-   background-image: url(./Прямоугольник\ 5@1X.png);
+   background-image: url(./img/Прямоугольник\ 5@1X.png);
    display: flex;
    padding-bottom: 20px;
    margin-bottom: 30px;
